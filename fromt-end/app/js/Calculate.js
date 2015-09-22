@@ -92,7 +92,7 @@ var Calculate=function (){
             return this.getMin(numbers,pos-1,min);//max recursividad
         }
     };
-
+//
 
 
 };
